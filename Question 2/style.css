@@ -1,0 +1,13 @@
+
+#container{
+    text-align: center;
+}
+
+label{
+    display: block;
+}
+input{
+    margin: auto;
+    display: block;
+    margin-bottom: 0.5rem;
+}
