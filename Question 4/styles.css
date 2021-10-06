@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+}
+
+input{
+    margin: auto;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+#outputDiv{
+    border: solid black 1px;
+    margin: auto;
+    padding: 2rem;
+    width: 50%;
+}
