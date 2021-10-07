@@ -1,0 +1,14 @@
+
+.container{
+    text-align: center;
+}
+
+#btn-loaded{
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+#output{
+    font-size: larger;
+}
+
